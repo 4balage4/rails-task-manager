@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+ .container {
+  text-align: center;
+  border: solid 2px beige;
+  background-color: beige;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px gray;
+  width: 500px;
+  align-items: center;
+ }
